@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/udemy-nanhimange2/static/css/main.391c5cbc.css",
+    "main.js": "/udemy-nanhimange2/static/js/main.5f926f76.js",
+    "index.html": "/udemy-nanhimange2/index.html",
+    "main.391c5cbc.css.map": "/udemy-nanhimange2/static/css/main.391c5cbc.css.map",
+    "main.5f926f76.js.map": "/udemy-nanhimange2/static/js/main.5f926f76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391c5cbc.css",
+    "static/js/main.5f926f76.js"
+  ]
+}
