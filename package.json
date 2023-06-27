@@ -20,7 +20,7 @@
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build"
   },
-  "homepage" : "https://nanhimang.github.io/udemy-nanhimang/%EC%9D%B8%ED%8A%B8%EB%A1%9C%ED%8E%98%EC%9D%B4%EC%A7%80/public/index.html",
+  "homepage" : "https://nanhimang.github.io/udemy-nanhimange2/",
   "eslintConfig": {
     "extends": [
       "react-app",
